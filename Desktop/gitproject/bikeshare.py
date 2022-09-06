@@ -1,4 +1,4 @@
-# This comment for Git project 
+# This comment Just for Git project
 import time
 import pandas as pd
 import numpy as np
