@@ -93,7 +93,7 @@ def load_data(city, month, day):
         df = df[df['DayOfWeek'] == day.title()]
 
     return df
-
+    # This function to display data 
 def display_data(df):
     view_data = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n')
     start_loc = 0
